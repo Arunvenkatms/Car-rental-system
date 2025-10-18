@@ -1,10 +1,6 @@
-# Project-Car-Rental
-
-This is a car rental project built using Servlet, JSP, JPA, MySQL for the database, and Stripe API for payment processing.
-
-## Overview
-
-This project implements a car rental system that allows users to browse available cars, make reservations, and manage their bookings. It utilizes Java Servlets, JavaServer Pages (JSP), and Java Persistence API (JPA) for database interactions. Payment processing is handled using the Stripe API.
+# Overview
+Developed a Car Rental System using Java Servlets, JSP, and JPA with MySQL for data management and Implemented features for car browsing, booking, and reservation management with a responsive interface.
+Integrated Stripe API for secure and seamless online payment processing.
 
 ## Features
 
@@ -27,7 +23,7 @@ This project implements a car rental system that allows users to browse availabl
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/itsZORAL1/Project-Car-Rental.git
+    git clone 
     ```
 
 2. Set up your MySQL database and update the configuration in `src/main/resources/persistence.xml`.
@@ -36,11 +32,5 @@ This project implements a car rental system that allows users to browse availabl
 
 4. Build and run the project using your preferred IDE or build tool.
 
-5. Access the application through your browser at `http://localhost:8080/Project-Car-Rental`.
-
-
-## Contact
-
-For any inquiries or feedback, feel free to reach out to alouahajar20@gmail.com
-
+5. Access the application through your browser at `http://localhost:8080/Project-Car-Rental`
 Happy coding!
